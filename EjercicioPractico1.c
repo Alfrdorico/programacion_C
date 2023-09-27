@@ -4,7 +4,7 @@ int main(){
 
     float AhorrosEnBanco = 10000.40;
 
-    char primeraLetraNombre = 'A';
-    char primeraLetraApellido1 = 'V';
-    char primeraLetraApellido2 ='J';
+    char primeraLetraNombre = 'E';
+    char primeraLetraApellido1 = 'G';
+    char primeraLetraApellido2 ='P';
 }
